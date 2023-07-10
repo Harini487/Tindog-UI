@@ -38,10 +38,10 @@ Heart:
 <br>
 <p><b> Text for the application's descriptions: </b></p>
 
-Meet new and interesting dogs nearby.
+<p>Meet new and interesting dogs nearby.</p>
 <br>
-Easy to use.
-So easy to use, even your dog could do it.
+<p>Easy to use.
+So easy to use, even your dog could do it.</p>
 <br>
 Elite Clientele.
 We have all the dogs, the greatest dogs.
