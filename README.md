@@ -40,35 +40,35 @@ Heart:
 
 <p>Meet new and interesting dogs nearby.</p>
 <br>
-<p>Easy to use.
-So easy to use, even your dog could do it.</p>
+<p>Easy to use.</p>
+<p>So easy to use, even your dog could do it.</p>
 <br>
-Elite Clientele.
-We have all the dogs, the greatest dogs.
+<p>Elite Clientele.</p>
+<p>We have all the dogs, the greatest dogs.</p>
 <br>
-Guaranteed to work.
-Find the love of your dog's life or your money back.
+<p>Guaranteed to work.</p>
+<p>Find the love of your dog's life or your money back.</p>
 <br>
-"I no longer have to sniff other dogs for love. I've found the hottest Corgi on TinDog. Woof."
-Pebbles, New York
+<p>"I no longer have to sniff other dogs for love. I've found the hottest Corgi on TinDog. Woof."</p>
+<p>Pebbles, New York</p>
 <br>
-A Plan for Every Dog's Needs
-Simple and affordable price plans for you and your dog.
+<p>A Plan for Every Dog's Needs</p>
+<p>Simple and affordable price plans for you and your dog.</p>
 <br>
-Chihuahua
-$0/mo
-5 Matches Per Day
-10 Messages Per Day
-Unlimited App Usage
+<p>Chihuahua</p>
+<p>$0/mo</p>
+<p>5 Matches Per Day</p>
+<p>10 Messages Per Day</p>
+<p>Unlimited App Usage</p>
 <br>
-Labrador
-$15/mo
-Unlimited Matches
-Unlimited Messages
-Unlimited App Usage
+<p>Labrador</p>
+<p>$15/mo</p>
+<p>Unlimited Matches</p>
+<p>Unlimited Messages</p>
+<p>Unlimited App Usage</p>
 <br>
-Mastiff
-$29/mo
-Pirority Listing
-Unlimited Matches & Messages
-Unlimited App Usage
+<p>Mastiff</p>
+<p>$29/mo</p>
+<p>Pirority Listing</p>
+<p>Unlimited Matches & Messages</p>
+<p>Unlimited App Usage</p>
